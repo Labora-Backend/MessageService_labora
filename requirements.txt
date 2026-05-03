@@ -1,0 +1,9 @@
+Django>=5.1,<6
+djangorestframework>=3.15,<3.17
+django-cors-headers>=4.6,<5
+djangorestframework-simplejwt[crypto]>=5.4,<6
+PyJWT[crypto]>=2.9,<3
+channels>=4.2,<5
+channels-redis>=4.2,<5
+daphne>=4.2,<5
+gunicorn>=23.0,<24
